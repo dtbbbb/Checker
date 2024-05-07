@@ -1,0 +1,7 @@
+{
+    "input_dir": "input",
+    "results_dir": "results",
+    "proxies_file": "proxies.txt",
+    "combos_file": "accounts.txt",
+    "thread_count": 250
+}
